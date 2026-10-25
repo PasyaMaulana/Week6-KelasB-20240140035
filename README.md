@@ -46,6 +46,8 @@ tugas-fetch-form/
 ├── js/
 │   ├── products.js
 │   └── form.js
+├── assets/
+│   ├── favicon.svg
 └── README.md
 ```
 
